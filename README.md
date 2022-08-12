@@ -1,6 +1,6 @@
 <h1>Logica de Programação JavaScript<h1>
  
-#### Projetos desenvolvidos ultilizando:
+#### Projetos desenvolvidos ultilizando as tecnologias:
 
 + JAVASCRIPT
 + NODE JS
